@@ -15,11 +15,11 @@
       Open your terminal and change your current directory to the root of your sui-1inch project. This is where your sources directory (containing
   my_token.move and swap.move) is located.
 
-   1     cd /Users/metaverse/gemini/072525/sui-1inch
+   1     cd /Users/xxx/gemini/072525/sui-1inch
 
    2. Create `Move.toml`:
       Your Sui Move package needs a Move.toml file to define its properties. Create a file named Move.toml inside the sources directory
-  (/Users/metaverse/gemini/072525/sui-1inch/sources/Move.toml) with the following content:
+  (/Users/xxx/gemini/072525/sui-1inch/sources/Move.toml) with the following content:
 
     1     [package]
     2     name = "sui_1inch"
